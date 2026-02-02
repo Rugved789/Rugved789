@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building full-stack and blockchain projects  <br>👯 Open to collaborating on MERN & Web3 apps  <br>🌱 Learning advanced React, Solidity, and backend scaling  <br>💬 Ask me about DSA, MERN stack, or Blockchain  <br>⚡ Fun fact: I love debugging more than writing fresh code 😄<br>
+🔭 Currently building full-stack and blockchain projects  <br>👯 Open to collaborating on PERN & Web3 apps  <br>🌱 Learning advanced React, Solidity, and backend scaling  <br>💬 Ask me about DSA, PERN stack, or Blockchain  <br>⚡ Fun fact: I love debugging more than writing fresh code 😄<br>
 
 
 ## 🌐 Socials:
